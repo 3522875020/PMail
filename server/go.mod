@@ -1,6 +1,6 @@
 module github.com/Jinnrry/pmail
 
-go 1.22.0
+go 1.21
 
 require (
 	github.com/Jinnrry/gopop v0.0.0-20231113115125-fbdf52ae39ea
